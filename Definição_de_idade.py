@@ -1,4 +1,4 @@
-'''1...12 é Criança, 13...17 é Adolescente, 18...65 é Adulto, acima de 65... é Idoso
+'''1...12 é Criança, 13...17 é Adolescente, 18...65 é Adulto, acima de 65... é Idoso.
 Sabendo das informções acima. Faça um programa que leia o nome e a idade de uma pessoa e imprima na tela:
 seu nome e se é uma criança, adolescente, adulto ou idoso.'''
 
