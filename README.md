@@ -1,2 +1,2 @@
-# Definicao_de_Idade
-Programa para definir a idade de uma pessoa. Utilizando IF / ELIF e o operador lógico AND.
+# Definition_of_Age
+Program to define the age of a person. Using IF / ELIF and the AND logical operator.
