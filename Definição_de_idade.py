@@ -1,6 +1,6 @@
 '''1...12 é Criança, 13...17 é Adolescente, 18...65 é Adulto, acima de 65... é Idoso.
 Sabendo das informções acima. Faça uma aplicação que leia o nome e a idade de uma pessoa e imprima na tela:
-seu nome e se é criança, adolescente, adulto ou idoso.'''
+o nome e se é criança, adolescente, adulto ou idoso.'''
 
 nome = str(input('Qual é o seu nome? '))
 idade = int(input('Qual é a sua idade? '))
